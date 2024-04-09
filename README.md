@@ -4,7 +4,7 @@
 
 ## Summary
 
-Welcome to Navigation Nation! This innovative web template enhances the user interface with a stylish, animated navigation menu. It showcases dynamic animations for menu items and a full-page overlay, providing a modern and engaging user experience. Perfect for web developers looking to elevate their site's aesthetic and interactivity.
+Navigation Nation is an innovative web template that enhances the user interface with a stylish, animated navigation menu. It showcases dynamic animations for menu items and a full-page overlay, providing a modern and engaging user experience. Perfect for web developers looking to elevate their site's aesthetic and interactivity.
 
 The core functionality includes:
 
