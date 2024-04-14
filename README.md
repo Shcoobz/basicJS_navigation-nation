@@ -1,6 +1,6 @@
-# [LIVE DEMO](https://shcoobz.github.io/navigation-nation/) -> Navigation Nation
+# basicJS_Navigation Nation: [LIVE DEMO](https://shcoobz.github.io/basicJS_navigation-nation/)
 
-![Project Image](/img/navigation-nation.png)
+![Project Image](/img/basicJS_navigation-nation.png)
 
 ## Summary
 
